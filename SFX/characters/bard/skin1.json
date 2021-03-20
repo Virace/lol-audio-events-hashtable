@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/bard/skins/skin01/bard_skin01_sfx_audio.bnk": {"Play_sfx_BardSkin01_Recall_leadin": [263815112]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/bard/skins/skin01/bard_skin01_sfx_audio.bnk": {"Play_sfx_BardSkin01_Recall_leadin": [263815112]}}, "info": {"kind": "characters", "name": "bard", "detail": "skin1", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Bard.wad.client"}}

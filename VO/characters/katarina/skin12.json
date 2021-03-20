@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/vo/zh_cn/characters/katarina/skins/skin12/katarina_skin12_vo_audio.wpk": {"Play_vo_KatarinaSkin12_KatarinaR_OnCast": [425738879, 348872482, 218258787, 719951561]}}
+{"data": {"assets/sounds/wwise2016/vo/zh_cn/characters/katarina/skins/skin12/katarina_skin12_vo_audio.wpk": {"Play_vo_KatarinaSkin12_KatarinaR_OnCast": [425738879, 348872482, 218258787, 719951561]}}, "info": {"kind": "characters", "name": "katarina", "detail": "skin12", "type": "VO", "wad": "Game/DATA/FINAL/Champions/Katarina.zh_CN.wad.client"}}

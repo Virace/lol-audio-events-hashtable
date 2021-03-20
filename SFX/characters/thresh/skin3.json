@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/thresh/skins/skin03/thresh_skin03_sfx_audio.bnk": {"Play_sfx_ThreshSkin03_Recall_leadin": [362247766]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/thresh/skins/skin03/thresh_skin03_sfx_audio.bnk": {"Play_sfx_ThreshSkin03_Recall_leadin": [362247766]}}, "info": {"kind": "characters", "name": "thresh", "detail": "skin3", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Thresh.wad.client"}}

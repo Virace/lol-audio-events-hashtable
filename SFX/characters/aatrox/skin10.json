@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/aatrox/skins/skin09/aatrox_skin09_sfx_audio.bnk": {"Play_sfx_AatroxSkin09_Winddown3D_buffactivate": [850967820], "Play_sfx_AatroxSkin09_Recall3D_buffactivate": [507648009]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/aatrox/skins/skin09/aatrox_skin09_sfx_audio.bnk": {"Play_sfx_AatroxSkin09_Winddown3D_buffactivate": [850967820], "Play_sfx_AatroxSkin09_Recall3D_buffactivate": [507648009]}}, "info": {"kind": "characters", "name": "aatrox", "detail": "skin10", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Aatrox.wad.client"}}

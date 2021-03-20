@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/sona/skins/skin07/sona_skin07_sfx_audio.bnk": {"Play_sfx_SonaSkin07_Recall_leadin": [295517680]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/sona/skins/skin07/sona_skin07_sfx_audio.bnk": {"Play_sfx_SonaSkin07_Recall_leadin": [295517680]}}, "info": {"kind": "characters", "name": "sona", "detail": "skin7", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Sona.wad.client"}}

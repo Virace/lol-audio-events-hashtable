@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/rammus/skins/skin07/rammus_skin07_sfx_audio.bnk": {"Play_sfx_RammusSkin07_Recall_Leadin": [614872281]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/rammus/skins/skin07/rammus_skin07_sfx_audio.bnk": {"Play_sfx_RammusSkin07_Recall_Leadin": [614872281]}}, "info": {"kind": "characters", "name": "rammus", "detail": "skin7", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Rammus.wad.client"}}

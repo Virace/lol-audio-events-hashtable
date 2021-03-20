@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/alistar/skins/skin20/alistar_skin20_sfx_audio.bnk": {"Play_sfx_AlistarSkin20_recall": [460854291]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/alistar/skins/skin20/alistar_skin20_sfx_audio.bnk": {"Play_sfx_AlistarSkin20_recall": [460854291]}}, "info": {"kind": "characters", "name": "alistar", "detail": "skin20", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Alistar.wad.client"}}

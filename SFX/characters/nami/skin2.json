@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/nami/skins/skin02/nami_skin02_sfx_audio.bnk": {"Play_sfx_NamiSkin02_Recall_leadin": [933832047]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/nami/skins/skin02/nami_skin02_sfx_audio.bnk": {"Play_sfx_NamiSkin02_Recall_leadin": [933832047]}}, "info": {"kind": "characters", "name": "nami", "detail": "skin2", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Nami.wad.client"}}

@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/vo/zh_cn/characters/sona/skins/skin03/sona_skin03_vo_audio.wpk": {"Play_vo_SonaSkin03_Joke3DGeneral": [243634969, 934223210, 563484207, 776861881]}}
+{"data": {"assets/sounds/wwise2016/vo/zh_cn/characters/sona/skins/skin03/sona_skin03_vo_audio.wpk": {"Play_vo_SonaSkin03_Joke3DGeneral": [243634969, 934223210, 563484207, 776861881]}}, "info": {"kind": "characters", "name": "sona", "detail": "skin3", "type": "VO", "wad": "Game/DATA/FINAL/Champions/Sona.zh_CN.wad.client"}}

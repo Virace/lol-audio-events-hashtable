@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/ahri/skins/skin05/ahri_skin05_sfx_audio.bnk": {"Play_sfx_AhriSkin05_recall_leadin": [406902649]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/ahri/skins/skin05/ahri_skin05_sfx_audio.bnk": {"Play_sfx_AhriSkin05_recall_leadin": [406902649]}}, "info": {"kind": "characters", "name": "ahri", "detail": "skin18", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Ahri.wad.client"}}

@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/katarina/skins/skin08/katarina_skin08_sfx_audio.bnk": {"Play_sfx_KatarinaSkin08_Recall_leadin_buffactivate": [1005976340]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/katarina/skins/skin08/katarina_skin08_sfx_audio.bnk": {"Play_sfx_KatarinaSkin08_Recall_leadin_buffactivate": [1005976340]}}, "info": {"kind": "characters", "name": "katarina", "detail": "skin11", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Katarina.wad.client"}}

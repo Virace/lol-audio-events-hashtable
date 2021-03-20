@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/vo/zh_cn/characters/tryndamere/skins/skin09/tryndamere_skin09_vo_audio.bnk": {"Play_vo_TryndamereSkin09_Recall": [1026263386]}}
+{"data": {"assets/sounds/wwise2016/vo/zh_cn/characters/tryndamere/skins/skin09/tryndamere_skin09_vo_audio.bnk": {"Play_vo_TryndamereSkin09_Recall": [1026263386]}}, "info": {"kind": "characters", "name": "tryndamere", "detail": "skin9", "type": "VO", "wad": "Game/DATA/FINAL/Champions/Tryndamere.zh_CN.wad.client"}}

@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/sfx/characters/elise/skins/skin02/elise_skin02_sfx_audio.bnk": {"Play_sfx_EliseSkin02_HumanRecall_leadin": [567743377], "Play_sfx_EliseSkin02_SpiderRecall_leadin": [994790136]}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/elise/skins/skin02/elise_skin02_sfx_audio.bnk": {"Play_sfx_EliseSkin02_HumanRecall_leadin": [567743377], "Play_sfx_EliseSkin02_SpiderRecall_leadin": [994790136]}}, "info": {"kind": "characters", "name": "elise", "detail": "skin2", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Elise.wad.client"}}

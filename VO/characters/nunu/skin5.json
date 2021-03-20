@@ -1,1 +1,1 @@
-{"assets/sounds/wwise2016/vo/zh_cn/characters/nunu/skins/skin05/nunu_skin05_vo_audio.wpk": {"Play_vo_NunuSkin05_FirstMove2D": [147651034, 1645481414]}}
+{"data": {"assets/sounds/wwise2016/vo/zh_cn/characters/nunu/skins/skin05/nunu_skin05_vo_audio.wpk": {"Play_vo_NunuSkin05_FirstMove2D": [147651034, 1645481414]}}, "info": {"kind": "characters", "name": "nunu", "detail": "skin5", "type": "VO", "wad": "Game/DATA/FINAL/Champions/Nunu.zh_CN.wad.client"}}
