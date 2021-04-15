@@ -1,1 +1,1 @@
-{"data": {"assets/sounds/wwise2016/sfx/shared/mus_global_audio.wpk": {"mus_global_health_dead_select": [818988413, 447851531, 484761864]}}, "info": {"kind": "maps", "name": "common", "detail": "common", "type": "MUSIC", "wad": "Game/DATA/FINAL/Maps/Shipping/Common.wad.client"}}
+{"data": {"assets/sounds/wwise2016/sfx/shared/mus_global_audio.wpk": {"mus_global_health_dead_select": [818988413, 447851531, 484761864]}}, "info": {"kind": "maps", "name": "common", "detail": "common", "type": "MUSIC", "wad": "DATA/FINAL/Maps/Shipping/Common.wad.client"}}

@@ -1,1 +1,1 @@
-{"data": {"assets/sounds/wwise2016/sfx/characters/elise/skins/skin04/elise_skin04_sfx_audio.bnk": {"Play_sfx_EliseSkin04_HumanRecall_leadin": [745069210]}}, "info": {"kind": "characters", "name": "elise", "detail": "skin4", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Elise.wad.client"}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/elise/skins/skin04/elise_skin04_sfx_audio.bnk": {"Play_sfx_EliseSkin04_HumanRecall_leadin": [745069210]}}, "info": {"kind": "characters", "name": "elise", "detail": "skin4", "type": "SFX", "wad": "DATA/FINAL/Champions/Elise.wad.client"}}

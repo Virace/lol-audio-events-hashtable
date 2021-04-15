@@ -1,1 +1,1 @@
-{"data": {"assets/sounds/wwise2016/sfx/characters/maokai/skins/skin07/maokai_skin07_sfx_audio.bnk": {"Play_sfx_MaokaiSkin07_recall_leadin": [507644011]}}, "info": {"kind": "characters", "name": "maokai", "detail": "skin7", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Maokai.wad.client"}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/maokai/skins/skin07/maokai_skin07_sfx_audio.bnk": {"Play_sfx_MaokaiSkin07_recall_leadin": [507644011]}}, "info": {"kind": "characters", "name": "maokai", "detail": "skin7", "type": "SFX", "wad": "DATA/FINAL/Champions/Maokai.wad.client"}}
