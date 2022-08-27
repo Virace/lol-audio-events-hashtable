@@ -1,1 +1,1 @@
-{"data": {"assets/sounds/wwise2016/sfx/characters/ryze/skins/skin10/ryze_skin10_sfx_audio.bnk": {"Play_sfx_RyzeSkin10_Recall3D_leadin": [560152750]}}, "info": {"kind": "characters", "name": "ryze", "detail": "skin10", "type": "SFX", "wad": "DATA/FINAL/Champions/Ryze.wad.client"}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/ryze/skins/skin10/ryze_skin10_sfx_audio.bnk": {"Play_sfx_RyzeSkin10_Recall3D_leadin": [560152750]}}, "info": {"kind": "characters", "name": "ryze", "detail": "skin10", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Ryze.wad.client"}}

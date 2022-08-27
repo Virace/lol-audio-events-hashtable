@@ -1,1 +1,1 @@
-{"data": {"assets/sounds/wwise2016/sfx/characters/swain/skins/skin02/swain_skin02_sfx_audio.wpk": {"Play_sfx_SwainSkin02_Music_FirstMove": [706379243]}}, "info": {"kind": "characters", "name": "swain", "detail": "skin2", "type": "SFX", "wad": "DATA/FINAL/Champions/Swain.wad.client"}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/swain/skins/skin02/swain_skin02_sfx_audio.wpk": {"Play_sfx_SwainSkin02_Music_FirstMove": [706379243]}}, "info": {"kind": "characters", "name": "swain", "detail": "skin2", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Swain.wad.client"}}

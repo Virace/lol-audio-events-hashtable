@@ -1,1 +1,1 @@
-{"data": {"assets/sounds/wwise2016/sfx/characters/ahri/skins/skin01/ahri_skin01_sfx_audio.bnk": {"Play_sfx_AhriSkin01_Dance3D_buffactivate": [316937147]}}, "info": {"kind": "characters", "name": "ahri", "detail": "skin1", "type": "SFX", "wad": "DATA/FINAL/Champions/Ahri.wad.client"}}
+{"data": {"assets/sounds/wwise2016/sfx/characters/ahri/skins/skin01/ahri_skin01_sfx_audio.bnk": {"Play_sfx_AhriSkin01_Dance3D_buffactivate": [316937147]}}, "info": {"kind": "characters", "name": "ahri", "detail": "skin1", "type": "SFX", "wad": "Game/DATA/FINAL/Champions/Ahri.wad.client"}}

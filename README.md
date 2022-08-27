@@ -2,8 +2,8 @@
 
 英雄联盟音频文件与音频触发事件哈希表
 
-解包版本: 11.19  
-更新时间: 2021年09月22日  
+解包版本: 12.17  
+更新时间: 2022年8月27日  
 
 By: Termux for Android
 
@@ -34,5 +34,3 @@ By: Termux for Android
 
 
 [py-bnk-extract](https://github.com/Virace/py-bnk-extract) & [lol_extract_voice](https://github.com/Virace/lol_extract_voice)
-
-> PS: 当前因py-bnk-extract库部分文件格式未了解, 所以效果音音频文件哈希表有可能不完整.
